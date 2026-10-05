@@ -113,17 +113,4 @@ Currently building my Python and SDET foundations through hands-on exercises and
 More projects will be added as the learning journey progresses.
 ```
 
-5. Scroll down to **Commit changes**
-6. For the commit message, enter:
 
-```text
-Add project README
-```
-
-7. Click **Commit changes**.
-
-### Then stop there. 🛑
-
-Come back and tell me **"README added"**.
-
-I'll give you **Step 2**, where we'll create your first actual Python folder and start putting your completed exercises into the repo in a professional way.
