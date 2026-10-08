@@ -31,6 +31,8 @@ jobs:
           playwright install --with-deps
 
       - name: Run Pytest
-        run: |
-          cd sdet-automation-framework
-          pytest
+  env:
+    BASE_URL: ${{ vars.BASE_URL }}
+  run: |
+    cd sdet-automation-framework
+    pytest
